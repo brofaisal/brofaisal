@@ -63,7 +63,7 @@ var faisal = Developer{
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,python&perline=6" />
 </p>
 
 ### Frontend
@@ -81,7 +81,7 @@ var faisal = Developer{
 ### Tools & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,python&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=7" />
 </p>
 
 ---
