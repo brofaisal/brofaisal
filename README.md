@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=brofaisal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
-
 </div>
 
 ---
